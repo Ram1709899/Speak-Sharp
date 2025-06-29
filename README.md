@@ -1,7 +1,7 @@
 # Speak-Sharp
 
 ```
-Write a script under 10minutes for a faceless video for my YouTube channel "Speak Sharp". 
+Write a script under 10 minutes for a faceless video for my YouTube channel "Speak Sharp". 
 
 🎯 Topic: 
 
