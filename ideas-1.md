@@ -1,10 +1,10 @@
 ## 🧠 **FOUNDATIONS: Boundaries, Assertiveness, Saying No**
 
-1. [How to Say No Without Feeling Guilty](https://chatgpt.com/share/6af1f411-4020-83ee-a0c6-494612a2f18a)
-2. [What to Say When Someone Disrespects You](https://chatgpt.com/share/6af1f4ca-2654-83e8-ba2d-4f26bab20a50)
-3. [3 Sentences That Set Strong Boundaries](https://chatgpt.com/share/6af1f5fd-624c-83e8-866f-d1c48ce23a71)
-4. [How to Speak Up Without Sounding Rude](https://chatgpt.com/share/6af1f673-822c-83e8-90a8-f761a1eec0c6)
-5. [Say This When You’re Being Interrupted](https://chatgpt.com/share/6af1f6cc-8f64-83ee-9dbb-0a4a1987e408)
+1. How to Say No Without Feeling Guilty
+2. What to Say When Someone Disrespects You
+3. 3 Sentences That Set Strong Boundaries
+4. How to Speak Up Without Sounding Rude
+5. Say This When You’re Being Interrupted
 6. How to Stop Being a People Pleaser
 7. Phrases to Use When Someone Crosses the Line
 8. The Power of Saying Less in Difficult Conversations
