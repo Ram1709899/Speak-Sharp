@@ -1,8 +1,8 @@
 ## 🧠 **FOUNDATIONS: Boundaries, Assertiveness, Saying No**
 
-1. How to Say No Without Feeling Guilty
-2. What to Say When Someone Disrespects You
-3. 3 Sentences That Set Strong Boundaries
+1. How to Say No Without Feeling Guilty ☑
+2. What to Say When Someone Disrespects You ☑
+3. 3 Sentences That Set Strong Boundaries ☑
 4. How to Speak Up Without Sounding Rude
 5. Say This When You’re Being Interrupted
 6. How to Stop Being a People Pleaser
