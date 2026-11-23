@@ -1,7 +1,7 @@
 ## 🧠 **FOUNDATIONS: Boundaries, Assertiveness, Saying No**
 
-1. How to Say No Without Feeling Guilty ☑
-2. What to Say When Someone Disrespects You ☑
+1. How to Say No Without Feeling Guilty ☑☑
+2. What to Say When Someone Disrespects You ☑☑
 3. 3 Sentences That Set Strong Boundaries ☑
 4. How to Speak Up Without Sounding Rude
 5. Say This When You’re Being Interrupted
@@ -15,7 +15,7 @@
 
 ## 🎯 **MANIPULATION DEFENSE: Spotting & Responding**
 
-11. How to Spot Manipulation in Any Conversation
+11. How to Spot Manipulation in Any Conversation ☑
 12. What Gaslighting Really Sounds Like
 13. 4 Signs You're Being Emotionally Manipulated
 14. Don’t Fall for This Guilt Trip Trick
