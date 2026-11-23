@@ -63,7 +63,7 @@
 41. The 1 Question That Reveals Anyone’s True Intentions
 42. Don’t Just Answer — Ask This Instead
 43. How to Win Arguments Without Saying “You’re Wrong”
-44. Why Smart People Always Ask THIS Before Speaking
+44. Why Smart People Always Ask THIS Before Speaking ☑
 45. The Most Underrated Communication Skill No One Teaches
 46. Questions to Ask Before Trusting Someone Too Fast
 47. Use This When a Conversation Feels Off
