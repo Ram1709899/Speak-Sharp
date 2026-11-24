@@ -51,7 +51,7 @@
 | 30 | One Day, You'll Realise That Your Ordinary Days Were Your Entire Life. |
 
 
-```
+
 ## **2. Notice the difference in title structures**
 
 This is particularly important. We shouldn't let the audience predict every title.
@@ -99,6 +99,6 @@ Another should change how they perceive rejection.
 Another should make them appreciate life.
 
 The viewer should never feel that they watched yesterday's video again with a different title.
-```
+
 
 **Thirty videos. Thirty different perspectives. One niche: Personality Development.**
