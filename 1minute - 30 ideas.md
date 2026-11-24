@@ -6,7 +6,7 @@ Certainly, Sir. Below is the complete Markdown file, with only one modification:
 
 | # | Video title                                                   | Progress |
 | - | ------------------------------------------------------------- | -------- |
-| 1 | In 60 Seconds, Understand Why You Are Your Own Biggest Enemy. | <br>     |
+| 1 | In 60 Seconds, Understand Why You Are Your Own Biggest Enemy. | ☑    |
 | 2 | The 5-Second Rule That Can Help You Stop Overthinking.        | <br>     |
 | 3 | Nobody Talks About the Psychological Power of Walking Away.   | <br>     |
 | 4 | What If Being Rejected Is Actually a Sign You're Growing?     | <br>     |
